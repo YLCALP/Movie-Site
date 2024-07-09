@@ -1,0 +1,47 @@
+.sectionTitle{
+    color: black;
+}
+
+.title {
+    color: blue;
+    text-decoration: none;
+}
+
+
+.centeredText{
+    text-align: center;
+    color: blue;
+}
+
+.altBaslik{
+  color: red;
+}
+
+li{
+    text-align:center;
+    color: purple;
+}
+img{
+    height: 500px;
+    width: 180px;
+}
+
+h2{
+    color: red;
+}
+body{
+    background-color:#E9ECEF  ;
+}
+
+.col{
+    padding-bottom: 5%;
+   
+}
+
+.card{
+    height: 300px;
+    width: 500px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+}
